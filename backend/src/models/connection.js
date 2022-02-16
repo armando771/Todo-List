@@ -5,9 +5,8 @@ const OPTIONS = {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 };
-
-const MONGO_DB_URL = `mongodb://${process.env.HOST || 'mongodb'}:27017/TodoLIst`;
-const DB_NAME = process.env.DB_NAME
+const MONGO_DB_URL = `mongodb://localhost:27017/TodoList`;
+const DB_NAME = 'TodoList'
 
 let db = null;
 
