@@ -47,7 +47,7 @@ const useStyles = makeStyles({
     border: '1px transparent solid',
     background: '#DCDCDC',
     borderRadius: '5%',
-    width: '40%',
+    width: '35%',
     marginBottom: '10px',
     paddingBottom: '10px',
     margin: 'auto'
