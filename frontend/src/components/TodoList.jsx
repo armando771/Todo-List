@@ -50,7 +50,7 @@ const useStyles = makeStyles({
     width: '35%',
     marginBottom: '10px',
     paddingBottom: '10px',
-    margin: 'auto'
+    margin: 'auto',
   },
   spans: {
     padding: '3px',
