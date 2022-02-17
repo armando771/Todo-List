@@ -10,7 +10,7 @@
 
 <p>🔗 <a href="https://nodejs.org/pt-br/docs/" target="_blank">Node.js</a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="25px" /> </p>
 
-<p>🔗 <a href="https://expressjs.com/pt-br/" target="_blank">Express</a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="25px" /> </p>
+<p>🔗 <a href="https://expressjs.com/pt-br/" target="_blank">Express</a></p>
 
 <p>🔗 <a href="https://joi.dev/api/?v=17.5.0" target="_blank">Joi</a></p>
 
