@@ -1,6 +1,6 @@
 # Todo-List
 
-## Sobre o projeto: 
+## Sobre O Projeto: 
 
 <p>Todo-List, uma lista de tarefas dinamica</p>
 
@@ -11,7 +11,7 @@
 <p>🔗 <a href="https://expressjs.com/pt-br/" target="_blank">Express</a></p>
 <p>🔗 <a href="https://joi.dev/api/?v=17.5.0" target="_blank">Joi</a></p>
 
-## como ultizar:
+## Como Ultizar:
 
 <li>Clone o repositorio com o comando: git clone git@github.com:armando771/Todo-List.git </li>
 <li>execute o NPM INSTALL </li>
